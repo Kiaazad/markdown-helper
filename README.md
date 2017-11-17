@@ -24,6 +24,6 @@ As additional functions you can press `F1` to activate then press `1` to put the
 ```
 like this
 ```
-Or you can press `F1` to activate then press `2` to center the selected or copied text or image in the screen using HTML tag `<center></center>`, just keep in mind that github doesn't support this one. (at least not in read me files I tested)
+Or you can press `F1` to activate then press `2` to center the selected or copied text or image in the screen using HTML tag `<center></center>`, just keep in mind that it's not markdwon and github doesn't support this one. (at least not in read me files I tested)
 
 The other markdown tags like inline code, lists, header and quote don't need much of typing and effort therefore, I didn't include them. however, I'm open to suggestions if there's anything to add.
