@@ -11,11 +11,11 @@ Websites like github and steemit lack proper editor options to format the text i
 
 ### How to run from the script
 You can download and install Autoit from [AutoIt website](https://www.autoitscript.com/site/autoit/downloads/) then download the `markdown-helper.au3`, open it in the editor and go to `tools > go` menu,  it will run the script.
-<center>![3.jpg](https://res.cloudinary.com/hpiynhbhq/image/upload/v1510865977/lurujnw8mhesuz3gx4cm.jpg)</center>
+![3.jpg](https://res.cloudinary.com/hpiynhbhq/image/upload/v1510865977/lurujnw8mhesuz3gx4cm.jpg)
 
 ### How to compile
 Open it in the editor and go to `tools > compile` menu, it will generate an executable file in the same folder for you.
-<center>![2.jpg](https://res.cloudinary.com/hpiynhbhq/image/upload/v1510865331/tiyoigywpvzlcxnvs6l8.jpg)</center>
+![2](https://user-images.githubusercontent.com/33455007/32934196-b0d488a8-cb80-11e7-84c1-1c869b98037c.jpg)
 
 ### How to use
 After running the script, your `F1` button will be assigned to markdown-helper, you can select the portion of your text you want to format, press `F1` to activate the tool, press `F1` again to cycle through **bold**, *italic*, ***bold+italic***, and ~~strikethrough~~ then press `grave accent` key (right under the `esc` key) will apply the style.
