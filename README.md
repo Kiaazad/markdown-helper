@@ -27,6 +27,3 @@ like this
 Or you can press `F1` to activate then press two to center the selected or copied text or image in the screen using HTML tag `<center></center>`
 <center>like this</center>
 The other markdown tags like inline code, lists, header and quote don't need much of typing and effort therefore, I didn't include them. however, I'm open to suggestions if there's anything to add.
-
-
-<br /><hr/><em>Posted on <a href="https://utopian.io/utopian-io/@kiaazad/markmown-helper">Utopian.io -  Rewarding Open Source Contributors</a></em><hr/>
